@@ -1,2 +1,5 @@
-# study_c
-C language study project.
+# C语言自学笔记
+
+####目前包括如下内容:
+  1. 预处理
+  2. 结构体
